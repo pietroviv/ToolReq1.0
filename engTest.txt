@@ -1,0 +1,6 @@
+1) I work as an It security engineer in Milan, Italy. More specially, i work as a It security consultant.
+2) My work consists of make the IT risk analysis of a product like as a web application.
+3) In details, there are different steps to perform a complete risk analysis. Start with studying, in depth the system, identifying vulnerabilities and threats that can be exploited by an attacker to perform an IT attack to the system.
+4) After this step, I have to write the IT security requirements that must be implemented by developers and It system handlers.
+5) This is, at high level, the process of risk analysis. It easy understand that these steps must be done with this order because is important understand what the It system is and what it does, and then it's possible write security requirements.
+6) An other step, I have to do, is compile different checklist about the impact that an attack would have on the system. In fact the core business of the company is the web.   
